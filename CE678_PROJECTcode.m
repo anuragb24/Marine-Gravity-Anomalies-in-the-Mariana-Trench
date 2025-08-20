@@ -2,9 +2,7 @@
 % CE678 PROJECT
 % Supervisor- Prof. Balaji Devaraju
 % Anurag Basu(241030401)
-% Bishwas Kumar(241030403)
-% Rohit Kumawat(241030402)
-
+ 
 %--------------------------------------------------------------------------
 % 1. Show header data of SARAL data from cycle 001 and pass 0075. 
 %--------------------------------------------------------------------------
@@ -1056,3 +1054,4 @@ ylabel('Latitude (degrees)');
 axis equal;
 set(gca, 'YDir', 'normal');
 %%
+
